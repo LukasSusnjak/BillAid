@@ -12,8 +12,9 @@ How do I use it?
   It's simple, you have to save your reciept as test.xlsx in the same folder where the code is, and then you run it throught the terminal with command: 
   python3 bill.py 
 
-IMPORTANT NOTE: Before using this program make sure you have python version 3 or later installed and that you have installed beautiful soup and selenium using pip. 
-                It is possible that the code is buggy and that you might have to modify it since it is still in Beta Version. To change the cell in which you want 
-                to save the value just replace l16 with the cell you need(in the line 26 of code: cellFix = sheet['l16']
-                
+IMPORTANT NOTE: -Before using this program make sure you have python version 3 or later installed and that you have installed beautiful soup and selenium using pip. 
+                -It is possible that the code is buggy and that you might have to modify it since it is still in Beta Version. 
+                -To change the cell in which you want 
+                 to save the value just replace l16 with the cell you need(in the line 26 of code: cellFix = sheet['l16']
+                -You can use test.xlsx as you reciept template, or you can make your own and name it test.xlsx 
                 
